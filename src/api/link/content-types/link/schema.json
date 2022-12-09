@@ -25,6 +25,9 @@
       "relation": "manyToOne",
       "target": "api::country.country",
       "inversedBy": "stores"
+    },
+    "rank": {
+      "type": "biginteger"
     }
   }
 }
