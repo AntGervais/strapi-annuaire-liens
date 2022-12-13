@@ -13,7 +13,8 @@
   "pluginOptions": {},
   "attributes": {
     "link": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "brand": {
       "type": "relation",
